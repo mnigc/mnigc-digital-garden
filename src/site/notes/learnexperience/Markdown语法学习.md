@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learnexperience/markdown/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/learnexperience/markdown/"}
 ---
 
 # 一级标题
