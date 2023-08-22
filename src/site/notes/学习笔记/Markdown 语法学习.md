@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//markdown/"}
+{"dg-publish":true,"dg-permalink":"Markdown语法学习","permalink":"/Markdown语法学习/"}
 ---
 
 # 一级标题
