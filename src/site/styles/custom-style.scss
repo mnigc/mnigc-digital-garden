@@ -29,4 +29,18 @@ body {
         font-size: 28px !important;
     }
     }
+.empty-navbar {
+    .search-button {
+        margin: 10px 0px 10px 0px;
+    }
+}
+.search-box input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    font-size: 1.5rem;
+    background-color: var(--background-primary);
+    color: var(--text-primary);
+}
 }
