@@ -35,4 +35,11 @@ body {
     width: 100%
     border-radius: 2px;
     }
+    
+.notelink {
+    padding: 4px 0 4px 32px;
+}
+.notelink.active-note {
+    transform: translateX(0px);
+}
 }
