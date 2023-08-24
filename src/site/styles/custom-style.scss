@@ -41,5 +41,7 @@ body {
 }
 .notelink.active-note {
     transform: translateX(1px);
+    border-radius: 2px;
+    margin-right: 8px;
 }
 }
