@@ -37,10 +37,33 @@ body {
     
 .notelink {
     padding: 5px 0 5px 32px;
-}
+    }
 .notelink.active-note {
     transform: translateX(0px);
     border-radius: 6px;
     margin-right: 8px
+    }
+    
+.graph {
+    .graph-title-container {
+        display: inline;
+        width: 100%;
+    }
+    .graph-title {
+        width: fit-content;
+        background-color: var(--background-secondary);
+        margin: 10px 0 0 0;
+        padding: 8px 16px;
+        font-size: 1.2rem !important;
+        border-radius: 4px 4px 0 0;
+        color: var(--h6-color);
+    }
+    }
+#link-graph {
+    background-color: var(--background-secondary);
+    margin-bottom: 20px;
+    border-radius: 0px 0 4px 4px;
+    padding: 16px;
+    width: fit-content;
 }
 }
