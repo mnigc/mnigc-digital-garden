@@ -51,8 +51,7 @@ body {
     }
     .graph-title {
         width: fit-content;
-        background-color: #ffffff
-        //var(--background-secondary);
+        background-color: var(--background-secondary);
         margin: 10px 0 0 0;
         padding: 8px 16px;
         font-size: 1.2rem !important;
