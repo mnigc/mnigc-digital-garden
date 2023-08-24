@@ -37,11 +37,9 @@ body {
     }
     
 .notelink {
-    padding: 4px 0 4px 32px;
+    padding: 5px 0 5px 32px;
 }
 .notelink.active-note {
     transform: translateX(1px);
-    border-radius: 2px;
-    margin-right: 8px;
 }
 }
