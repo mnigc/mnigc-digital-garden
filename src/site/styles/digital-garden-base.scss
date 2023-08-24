@@ -14,9 +14,9 @@ body {
 }
 
 .content {
-    max-width: 800px;
+    max-width: 700px;
     margin: auto;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5;
     margin-top: 80px;
     position: relative;
@@ -307,9 +307,9 @@ ul.task-list {
     background-color: var(--background-secondary);
     color: var(--text-muted);
     overflow-y: auto;
-    width: 320px;
+    width: 250px;
     h1 {
-        font-size: 28px !important;
+        font-size: 32px !important;
     }
     @media (max-width: 800px) {
         h1 {
