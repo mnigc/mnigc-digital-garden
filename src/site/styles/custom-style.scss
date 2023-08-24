@@ -69,8 +69,9 @@ body {
     
 .toc {
     padding-right: 5px;
+    padding: 0px;
     background-color: var(--background-primary);
-    margin-left: 8px;
+    margin-left: 12px;
     border-radius: 4px;
     ol {
         list-style: none;
@@ -85,6 +86,6 @@ body {
     }
     }
 .toc-title-container {
-    margin-bottom: 8px;
+    margin-bottom: 12px;
     }
 }
