@@ -27,7 +27,7 @@ body {
 .filetree-sidebar {
     height: 100%;
     width: 320px;
-    border-right: 1px solid #eeeeee;
+    border-right: 1px solid #e5e5e5;
     h1 {
         font-size: 32px !important;
         text-align: left !important;
@@ -36,12 +36,17 @@ body {
 }
       
 .notelink {
-    padding: 5px 0 5px 32px;
+    padding: 8px 0 8px 12px;
+    margin-left: 9px;
+    border-left: 1px solid #d2d2d2;
 }
 .notelink.active-note {
     transform: translateX(0px);
     border-radius: 6px;
     margin-right: 8px
+}
+.foldername-wrapper {
+    margin: 4px 0 4px 0px;
 }
     
 .graph {
