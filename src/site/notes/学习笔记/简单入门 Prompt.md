@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习笔记/简单入门 Prompt/","noteIcon":"","created":"2023-08-26T10:43:28.521+08:00","updated":"2023-08-26T16:52:21.308+08:00"}
+{"dg-publish":true,"permalink":"/学习笔记/简单入门 Prompt/","noteIcon":"","created":"2023-08-26T10:43:28.521+08:00","updated":"2023-08-26T21:48:36.630+08:00"}
 ---
 
 <br>
@@ -25,6 +25,8 @@ prompt 翻译成中文，就是“提示”。但是在计算机编程和人工�
 ### 怎么用
 那么该如何用好 Prompt，我从网上找了万能公式框架
 
+	框架需要根据自身情况制定，不一定用这个
+
 |序号|关键内容|描述|
 |---|---|---|
 |1|能力和角色|你希望AI扮演怎样的角色|
@@ -40,10 +42,12 @@ prompt 翻译成中文，就是“提示”。但是在计算机编程和人工�
 就像知乎上的[数字生命卡兹克](https://www.zhihu.com/people/zhang-ren-jie-77)所说：
 >prompt 真正专业性，在我以上的表述中，仅仅只是门外的惊鸿一瞥。“思维链”“ICL”等等，才是沉在水下的冰山，也是我这个门外汉，想去努力触碰的方向。  
 
-其他相关文章 [[学习笔记/产品经理怎么用好 prompt\|产品经理怎么用好 prompt]]
+进阶用法，请移步 [[产品经理知识库/产品经理怎么用好prompt\|产品经理怎么用好prompt]]
 
 ### 更多学习资料
 1. [提示工程指南 | Prompt Engineering Guide (promptingguide.ai)](https://www.promptingguide.ai/zh)
 2. [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 3. [awesome-chatgpt-prompts-zh: ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 4. [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
+5. [AiShort (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！](https://www.aishort.top/)
+6. [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
