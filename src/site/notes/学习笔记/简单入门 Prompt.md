@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习笔记/简单入门 Prompt/","noteIcon":"","created":"2023-08-26T10:43:28.521+08:00","updated":"2023-08-26T16:42:28.311+08:00"}
+{"dg-publish":true,"permalink":"/学习笔记/简单入门 Prompt/","noteIcon":"","created":"2023-08-26T10:43:28.521+08:00","updated":"2023-08-26T16:43:46.137+08:00"}
 ---
 
 <br>
@@ -41,9 +41,10 @@ prompt 翻译成中文，就是“提示”。但是在计算机编程和人工�
 就像知乎上的[数字生命卡兹克](https://www.zhihu.com/people/zhang-ren-jie-77)所说：
 >prompt 真正专业性，在我以上的表述中，仅仅只是门外的惊鸿一瞥。“思维链”“ICL”等等，才是沉在水下的冰山，也是我这个门外汉，想去努力触碰的方向。  
 
+其他相关文章 [[学习笔记/产品经理怎么用好 prompt\|产品经理怎么用好 prompt]]
+
 ### 更多学习资料
 1. [提示工程指南 | Prompt Engineering Guide (promptingguide.ai)](https://www.promptingguide.ai/zh)
 2. [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 3. [awesome-chatgpt-prompts-zh: ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 4. [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
-5. [[学习笔记/产品经理用 prompt\|产品经理用 prompt]]
