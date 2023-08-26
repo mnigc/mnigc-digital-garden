@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习笔记/简单入门 Prompt/","noteIcon":"","created":"2023-08-26T10:43:28.521+08:00","updated":"2023-08-26T21:48:36.630+08:00"}
+{"dg-publish":true,"permalink":"/学习笔记/简单入门 Prompt/","tags":["prompt"],"noteIcon":"","created":"2023-08-26T10:43:28.521+08:00","updated":"2023-08-26T22:13:07.116+08:00"}
 ---
 
 <br>
