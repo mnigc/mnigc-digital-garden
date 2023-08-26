@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path>
-    <polyline points="14 2 14 8 20 8"></polyline>
-    <line x1="16" y1="13" x2="8" y2="13"></line>
-    <line x1="16" y1="17" x2="8" y2="17"></line>
-    <line x1="10" y1="9" x2="8" y2="9"></line>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24" fill="none"><g opacity="1"  transform="translate(0 0)  rotate(0)"><mask id="bg-mask-0" fill="white"><use transform="translate(0 0)  rotate(0)" xlink:href="#path_0"></use></mask><g mask="url(#bg-mask-0)" ><path id="并集" fill-rule="evenodd" style="fill:#BFBFBF" opacity="1" d="M17.43,1c0.87,0 1.57,0.74 1.57,1.64v19.72c0,0.9 -0.7,1.64 -1.57,1.64h-14.86c-0.87,0 -1.57,-0.74 -1.57,-1.64v-19.72c0,-0.9 0.7,-1.64 1.57,-1.64zM16.65,2.64h-13.3c-0.43,0 -0.78,0.37 -0.78,0.82v18.08c0,0.45 0.35,0.82 0.78,0.82h13.3c0.43,0 0.78,-0.37 0.78,-0.82v-18.08c0,-0.45 -0.35,-0.82 -0.78,-0.82zM14.692,7.5686h-9.41c-0.43,0 -0.78,-0.36 -0.78,-0.82c0,-0.45 0.35,-0.82 0.78,-0.82h9.41c0.43,0 0.78,0.37 0.78,0.82c0,0.46 -0.35,0.82 -0.78,0.82zM14.692,12.4986h-9.41c-0.43,0 -0.78,-0.37 -0.78,-0.82c0,-0.45 0.35,-0.82 0.78,-0.82h9.41c0.43,0 0.78,0.37 0.78,0.82c0,0.45 -0.35,0.82 -0.78,0.82zM9.992,17.4286h-4.71c-0.43,0 -0.78,-0.37 -0.78,-0.82c0,-0.46 0.35,-0.82 0.78,-0.82h4.71c0.43,0 0.78,0.36 0.78,0.82c0,0.45 -0.35,0.82 -0.78,0.82z"></path></g></g><defs><rect id="path_0" x="0" y="0" width="24" height="24" /></defs></svg>
