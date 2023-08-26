@@ -28,14 +28,10 @@ body {
     height: 100%;
     width: 320px;
     h1 {
-        font-size: 28px !important;
+        font-size: 32px !important;
     }
 }
-    
-.search-button {
-    width: 100%
-}
-    
+      
 .notelink {
     padding: 5px 0 5px 32px;
 }
@@ -85,7 +81,24 @@ body {
         padding-left: 0;
         border-left: none;
     }
-    }
+}
+.toc-container {
+    border-left: 2px solid var(--text-accent);
+}
 .toc-title-container {
     margin-bottom: 12px;
+}
+
+.backlinks {
+    padding: 12px;
+
+    .backlink-title {
+        margin: 12px 0;
+    }
+}
+.backlink-list {
+    border-left: 2px solid var(--text-accent);
+}
+.backlink-card {
+    margin-left: 16px;
 }
