@@ -143,12 +143,7 @@ body {
     justify-content: space-around;
 }
 .markdown-rendered blockquote{
-    color: var(--blockquote-color);
-    font-style: var(--blockquote-font-style);
-    background-color: var(--blockquote-background-color);
-    border-left: var(--blockquote-border-thickness) solid var(--blockquote-border-color);
+    background-color: #f6f6f6;
     padding: 10px 0px 10px var(--size-4-6);
     border-radius: 4px;
-    margin-inline-start: 0;
-    margin-inline-end: 0;
 }
