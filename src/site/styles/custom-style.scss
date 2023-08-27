@@ -142,10 +142,13 @@ body {
     align-items: center;
     justify-content: space-around;
 }
-.blockquote {
-    background: #99999917;
-    border-left: 10px solid #c1dbe3;
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
-    quotes: "\201C""\201D""\2018""\2019";
+.markdown-rendered blockquote{
+    color: var(--blockquote-color);
+    font-style: var(--blockquote-font-style);
+    background-color: var(--blockquote-background-color);
+    border-left: var(--blockquote-border-thickness) solid var(--blockquote-border-color);
+    padding: 10px 0px 10px var(--size-4-6);
+    border-radius: 4px;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
 }
