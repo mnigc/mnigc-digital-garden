@@ -118,3 +118,27 @@ body {
         align-items: center;
     }
 }
+.search-button {
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    min-width: 240px;
+    margin: 10px 24px;
+    border: 1px solid #0e0e0e3d;
+    > i {
+        margin-left: 10px;
+    }
+
+    &:hover {
+        border: 1px solid var(--text-accent);
+    }
+
+    .search-icon {
+        display: flex;
+    }
+}
+.align-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+}
