@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/产品经理知识库/产品经理怎么用好prompt/","tags":["prompt"],"noteIcon":"","created":"2023-08-26T16:39:04.027+08:00","updated":"2023-08-26T22:10:40.207+08:00"}
+{"dg-publish":true,"permalink":"/产品经理知识库/产品经理怎么用好prompt/","noteIcon":"","created":"2023-08-26T16:39:04.027+08:00","updated":"2023-09-17T16:34:44.816+08:00"}
 ---
 
 
