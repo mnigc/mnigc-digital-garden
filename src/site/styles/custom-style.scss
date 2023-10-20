@@ -35,8 +35,11 @@ body {
     padding: 4px 0 4px 0px;
     margin-left: 9px;
     border-left: 1px solid #d2d2d2;
-    font-size: 14px;
 }
+.filename {
+    font-size: 14px;
+    color: #333333;
+}   
 .notelink.active-note {
     transform: translateX(0px);
     border-radius: 0px 6px 6px 0px;
@@ -48,7 +51,6 @@ body {
 }
 .foldername {
     font-size: 14px;
-    color: #333333;
 }   
 .graph {
     .graph-title-container {
@@ -155,6 +157,6 @@ body {
 .markdown-rendered th {
     text-align: left !important;
   }
- .markdown-rendered table {
+.markdown-rendered table {
     width: 100%;
   }
