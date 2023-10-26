@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/产品设计实战/把 cron 表达式用在设计中/","created":"2023-10-06T23:52:10.000+08:00","updated":"2023-10-26T14:53:13.526+08:00"}
+{"dg-publish":true,"permalink":"/产品设计实战/把 cron 表达式用在设计中/","created":"2023-10-06T23:52:10.000+08:00","updated":"2023-10-26T14:56:52.760+08:00"}
 ---
 
 
@@ -33,15 +33,15 @@ Cron表达式由6个字段组成，按顺序分别表示秒、分钟、小时、
 
 [在线Cron表达式生成器)](https://cron.qqe2.com/)
 
-![image.png](https://s2.loli.net/2023/10/26/SlayBJFkcm4KZ1x.png)
+![](https://s2.loli.net/2023/10/26/98Gojab5BncMYPF.png)
 
 [Cron - 在线Cron表达式生成器](http://cron.ciding.cc/)
 
-![image.png](https://s2.loli.net/2023/10/26/l9X1R4a8TgWzm63.png)
+![](https://s2.loli.net/2023/10/26/gsob7hp6y9KJdnj.png)
 
 如果是面向开发人员或懂点技术的内部人员，这样的一套完全是满足需求的，但是如果要把这样一套工具给客户，我相信客户会抓狂，因为使用起来比较复杂，在线上常用的工具中，是通过切换单位的交互方式，站在大众视角看，只展示当前时间单位配置的数据而不展示其他时间单位的配置数据，无疑增加了记忆成本，无法所见即所得，而这个单位下又把所有的配置方式全列出来，看起来这是一个非常复杂的工具，让大部分人望而却步。
 
-![image.png](https://s2.loli.net/2023/10/26/bl7UDZ4orvRPf6J.png)
+![](https://s2.loli.net/2023/10/26/bl7UDZ4orvRPf6J.png)
 
 我在设计过程中，根据上述痛点，做了一些优化：
 1. 把所有时间单位展示出来，能一眼看出配置结果是怎样的
