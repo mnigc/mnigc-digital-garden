@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/产品设计实战/「Auth」B端用户&角色&权限设计/","noteIcon":"","created":"2023-10-12T20:52:58.520+08:00"}
+{"dg-publish":true,"permalink":"/产品设计实战/「Auth」B端用户&角色&权限设计/","created":"2023-10-17T22:34:10.000+08:00","updated":"2023-10-22T00:20:10.000+08:00"}
 ---
 
 参考：[原文地址](https://zhuanlan.zhihu.com/p/470130487)，同时我根据自己的理解修改部分内容，方便自己理解
