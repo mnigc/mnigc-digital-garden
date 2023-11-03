@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/产品知识库/UML详细指南：用例图/","created":"2023-11-03T11:26:44.986+08:00","updated":"2023-11-03T13:56:34.369+08:00"}
+{"dg-publish":true,"permalink":"/产品知识库/UML详细指南：用例图/","created":"2023-11-03T11:26:44.986+08:00","updated":"2023-11-03T13:58:07.381+08:00"}
 ---
+
 
 转载：[产品经理必学UML（二）：用例图](https://www.woshipm.com/pd/2602941.html)
 
