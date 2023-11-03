@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/产品知识库/UML详细指南：类图/","created":"2023-11-03T11:23:30.067+08:00","updated":"2023-11-03T11:24:34.850+08:00"}
+{"dg-publish":true,"permalink":"/产品知识库/UML详细指南：类图/","created":"2023-11-03T11:23:30.067+08:00","updated":"2023-11-03T13:58:08.085+08:00"}
 ---
+
 
 转载：[产品经理必学UML：类图](https://www.woshipm.com/pd/2593231.html)
 
