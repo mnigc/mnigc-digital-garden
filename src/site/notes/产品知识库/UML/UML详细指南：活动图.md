@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/产品知识库/UML/UML详细指南：活动图/","created":"2023-11-03T11:30:49.389+08:00","updated":"2023-11-03T13:58:12.550+08:00"}
+{"dg-publish":true,"permalink":"/产品知识库/UML/UML详细指南：活动图/","noteIcon":"","created":"2023-11-04T10:33:44.396+08:00"}
 ---
 
 
