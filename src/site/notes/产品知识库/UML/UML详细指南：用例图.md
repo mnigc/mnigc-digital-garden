@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/产品知识库/UML/UML详细指南：用例图/","created":"2023-11-03T11:26:44.986+08:00","updated":"2023-11-03T13:58:07.381+08:00"}
+{"dg-publish":true,"permalink":"/产品知识库/UML/UML详细指南：用例图/","noteIcon":"","created":"2023-11-04T10:33:44.347+08:00"}
 ---
 
 
